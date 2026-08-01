@@ -1,0 +1,89 @@
+{
+  "hero": {
+    "availability": "Available for new opportunities",
+    "greeting": "Hi, I'm",
+    "name": "Kheang Huysor",
+    "role": "Java Developer & API Specialist",
+    "description": "I specialize in building robust microservices, RESTful APIs, and scalable backend solutions using Spring Boot. Passionate about enhancing system stability and delivering seamless integrations.",
+    "skills": [
+      { "icon": "Terminal", "label": "Java / Spring Boot" },
+      { "icon": "Server", "label": "Microservices" },
+      { "icon": "Database", "label": "Database Design" },
+      { "icon": "Code2", "label": "API Development" },
+      { "icon": "Cloud", "label": "DevOps & Deployment" }
+    ]
+  },
+  "experience": [
+    {
+      "company": "ZANDO Group",
+      "role": "Software Developer Specializing in APIs Development",
+      "period": "2024 - PRESENT",
+      "description": [
+        "Developed and maintained APIs controlling core functionalities of the e-commerce system",
+        "Built APIs for Zando Web and App platforms, as well as Ten11 Web and App",
+        "Developed backend APIs to manage distributor control for Ten11 International version",
+        "Designed and implemented new features based on requirements from the management team",
+        "Developed APIs integrating POS Inventory System with the online platform for seamless inventory management",
+        "Developed APIs to manage Zando user KOL (Key Opinion Leader) features",
+        "Generated and analyzed reports for Zando and Ten11 platforms",
+        "Collaborated closely with frontend developers to ensure seamless API integration",
+        "Worked with the team on designing and restructuring database tables for enhanced scalability and maintainability"
+      ]
+    },
+    {
+      "company": "Technology Solution Development (TSD) Co., Ltd.",
+      "role": "Software Developer",
+      "period": "2023 - 2024",
+      "description": [
+        "Developed microservice projects including QR code validation, REST APIs, and OTP sending using Spring Boot framework",
+        "Collaborated effectively with the development team to ensure smooth project delivery",
+        "Met with clients to gather requirements and translate them into new feature developments",
+        "Developed new features and customized existing modules in CRM and POS inventory software to meet client needs",
+        "Managed and maintained WordPress systems for client websites",
+        "Conducted software training sessions to empower clients in using delivered solutions"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "school": "Royal University of Phnom Penh",
+      "degree": "Bachelor's in Computer Science",
+      "period": "2021 - 2024"
+    },
+    {
+      "school": "Paññäsāstra University of Cambodia",
+      "degree": "English Diploma",
+      "period": "2022 - 2023"
+    },
+    {
+      "school": "Hunsen sereypheap high school",
+      "degree": "High School Baccalaureate",
+      "period": "2008 - 2020"
+    }
+  ],
+  "skills": [
+    { "name": "Spring Boot Framework", "icon": "Code2", "color": "text-green-400" },
+    { "name": "Microservice Architecture", "icon": "Globe", "color": "text-blue-400" },
+    { "name": "MySQL & PostgreSQL", "icon": "Database", "color": "text-cyan-400" },
+    { "name": "React.js", "icon": "Code2", "color": "text-sky-400" },
+    { "name": "HTML, CSS, JS, TS", "icon": "Code2", "color": "text-yellow-400" },
+    { "name": "Groovy", "icon": "Code2", "color": "text-teal-400" },
+    { "name": "Docker", "icon": "Container", "color": "text-blue-500" },
+    { "name": "Jenkins", "icon": "Settings", "color": "text-red-400" },
+    { "name": "Nginx", "icon": "Server", "color": "text-green-500" },
+    { "name": "Ansible", "icon": "Terminal", "color": "text-slate-300" },
+    { "name": "Nexus OSS", "icon": "Layers", "color": "text-gray-300" },
+    { "name": "GitHub & GitLab", "icon": "GitBranch", "color": "text-orange-400" }
+  ],
+  "languages": [
+    { "name": "Khmer", "proficiency": "Native" },
+    { "name": "English", "proficiency": "Professional" }
+  ],
+  "contact": {
+    "title": "Let's Work Together",
+    "description": "Feel free to reach out for collaborations, new opportunities, or just to say hi!",
+    "phone": "+855 10607008",
+    "phoneLink": "+85510607008",
+    "email": "huysorkheang22@gmail.com"
+  }
+}
